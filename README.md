@@ -1,4 +1,4 @@
-# Pixelate-21-Technex-IIT-BHU
+# Pixelate-24-Technex-IIT-BHU
 
 For better understanding, read the problem statement pdf file given above.
 
